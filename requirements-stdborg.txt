@@ -29,3 +29,4 @@ oauth2client
 httplib2==0.15.0
 dnspython
 pymongo
+spacy
