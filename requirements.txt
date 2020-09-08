@@ -12,6 +12,7 @@ chatterbot-corpus
 cowsay
 pymongo
 spacy
+dnspython
 gaggle
 tracemoepy
 -r ./requirements-stdborg.txt
