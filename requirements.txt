@@ -9,4 +9,9 @@ coffeehouse>=2.2.2
 anime-downloader
 pylast
 chatterbot-corpus
+cowsay
+pymongo
+spacy
+gaggle
+tracemoepy
 -r ./requirements-stdborg.txt
