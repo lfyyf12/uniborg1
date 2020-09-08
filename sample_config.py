@@ -110,7 +110,7 @@ class Config(object):
     G_DRIVE_CLIENT_ID = os.environ.get("G_DRIVE_CLIENT_ID", None)
     G_DRIVE_CLIENT_SECRET = os.environ.get("G_DRIVE_CLIENT_SECRET", None)
     GDRIVE_FOLDER_ID = os.environ.get("GDRIVE_FOLDER_ID", "root")
-    IS_TEAM_DRIVE = os.environ.get("IS_TEAM_DRIVE",TRUE)
+    IS_TEAM_DRIVE = os.environ.get("IS_TEAM_DRIVE",False)
 
 class Production(Config):
     LOGGER = False
