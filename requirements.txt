@@ -1,7 +1,7 @@
 telethon
 lxml
 selenium
-aria2p
+
 ChatterBot
 spcli
 instaloader
